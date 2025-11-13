@@ -10,7 +10,7 @@
 <atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>Place talking about sports data</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Tue, 04 Nov 2025 06:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 04 May 2026 05:00:00 GMT</lastBuildDate>
 <item>
   <title>BIG10 Basketball in 2024</title>
   <dc:creator>Brady J. Anderson</dc:creator>
@@ -49,7 +49,7 @@ font-style: inherit;">library</span>(tidyverse)</span></code></pre></div></div>
   <category>men&#39;s basketball</category>
   <category>ncaa</category>
   <guid>https://your-website-url.example.com/posts/nebraska-mens-basketball-national-title/</guid>
-  <pubDate>Tue, 04 Nov 2025 06:00:00 GMT</pubDate>
+  <pubDate>Mon, 04 May 2026 05:00:00 GMT</pubDate>
   <media:content url="https://your-website-url.example.com/posts/nebraska-mens-basketball-national-title/image.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -759,7 +759,7 @@ font-style: inherit;">"big_ten_basketball_data.csv"</span>)</span></code></pre><
 
  ]]></description>
   <guid>https://your-website-url.example.com/posts/nebraska-mens-basketball-national-title/Nebraska-Bball-data.html</guid>
-  <pubDate>Thu, 13 Nov 2025 00:31:40 GMT</pubDate>
+  <pubDate>Thu, 13 Nov 2025 00:46:08 GMT</pubDate>
 </item>
 </channel>
 </rss>
