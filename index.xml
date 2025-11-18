@@ -837,9 +837,10 @@ font-style: inherit;"># LOWER CAPTION BY 15</span></span>
 </div>
 </div>
 </div>
-<p>Here’s where things get interesting. Purdue had the top offense in the Big Ten but still won less than 30% of its games, a clear sign that offense alone doesn’t win.</p>
-<p>Iowa proved the opposite, winning over 75% of its games with an average attack by steady defense and execution. Nebraska followed a similar path, relying on toughness instead of pure scoring.</p>
-<p>It’s a reminder that highlight plays don’t mean much without stops on the other end.</p>
+<p>This chart show teams’ offensive efficiency relates to winning.</p>
+<p>Purdue had the highest offense and also the highest win percentage, showing their scoring helped them dominate the season.</p>
+<p>Nebraska and Iowa didn’t have the top offense but still won a good number of games, showing that strong defense and smart, disciplined play can compete with high-scoring teams.</p>
+<p>This chart reminds us that offense helps, but defense and teamwork are also critical to winning.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
