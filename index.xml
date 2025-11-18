@@ -12,7 +12,7 @@
 <generator>quarto-1.8.25</generator>
 <lastBuildDate>Mon, 04 May 2026 05:00:00 GMT</lastBuildDate>
 <item>
-  <title>Big Ten Men’s Basketball 2024: Tracking the Classic 14 Teams</title>
+  <title>Big Ten Men’s Basketball 2024: Preseason Expectations vs. Real Results</title>
   <dc:creator>Brady J. Anderson</dc:creator>
   <link>https://your-website-url.example.com/posts/nebraska-mens-basketball-national-title/</link>
   <description><![CDATA[ 
@@ -21,7 +21,7 @@
 
 
 
-<p>The 2024 Big Ten season was one of the most competitive in recent memory. Several teams outperformed their preseason expectations, while others struggled to find consistency.</p>
+<p>The 2024 Big Ten men’s basketball season was really competitive. Some teams did way better than people expected, while others didn’t do as well as predicted. I wanted to see which teams surprised everyone the most. By looking at their offense and defense, we can figure out who exceeded expectations and who fell short.</p>
 <p>Here’s a breakdown of how each team’s offensive and defensive efficiency contributed to their success.</p>
 <div class="cell">
 <details class="code-fold">
@@ -500,7 +500,7 @@ font-style: inherit;">labs</span>(</span>
 background-color: null;
 font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"Big Ten Teams: Preseason Expectations vs Final Standing"</span>,</span>
+font-style: inherit;">"Which Big Ten Teams Beat Expectations in 2024"</span>,</span>
 <span id="cb2-11">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">subtitle =</span> <span class="st" style="color: #20794D;
