@@ -1336,7 +1336,7 @@ font-style: inherit;">"bold"</span>, <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">18</span>),  </span>
+font-style: inherit;">16</span>),  </span>
 <span id="cb1-51">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.caption =</span> <span class="fu" style="color: #4758AB;
@@ -1581,7 +1581,7 @@ font-style: inherit;">"bold"</span>, <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">20</span>),</span>
+font-style: inherit;">16</span>),</span>
 <span id="cb2-40">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.caption =</span> <span class="fu" style="color: #4758AB;
@@ -1888,7 +1888,7 @@ font-style: inherit;">"bold"</span>, <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">18</span>),</span>
+font-style: inherit;">16</span>),</span>
 <span id="cb3-43">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.caption =</span> <span class="fu" style="color: #4758AB;
