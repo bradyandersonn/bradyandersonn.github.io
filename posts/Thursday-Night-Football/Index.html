@@ -190,8 +190,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 
-<p>Fans always complain about Thursday Night Football, saying the short week makes the games sloppy and low-quality. To see if that’s true, I looked at NFL play-by-play data and compared TNF games to all other games using three metrics: scoring, turnovers, and yards per play. The numbers give a clearer answer than the usual fan arguments.</p>
-<p>This graph compares total points scored in every NFL game during the 2024 season. Each dot is a single game, and the boxplots show the range and median for Thursday games versus all others. If TNF games were truly “boring,” we would expect the TNF box to be noticeably lower. Instead, scoring levels are almost identical across both groups, showing that offenses perform normally even on a short week.</p>
+<p>Fans love to complain about Thursday Night Football (TNF)!</p>
+<p>Often things commonly said are like, “The short week makes the games sloppy,” or “They’re low quality!” But is that really true?</p>
+<p>I decided to dive into NFL play-by-play data from the 2024 season to see if TNF games actually live up or down to the hype. I compared Thursday games to all other match ups using three key stats, total points scored, turnovers, and yards per play.</p>
+<p>If TNF games were truly boring, we’d expect them to have lower scoring. So for this first graph plotted total points for every NFL game in 2024. Each dot represents a single game, and the boxplots show the median and range for Thursday games versus all other games.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -256,7 +258,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>
 </div>
 </div>
-<p>Turnovers are one of the biggest signs of sloppy football, so fans often assume Thursday games are messy. But the turnover data doesn’t support that idea. The distribution of turnovers is nearly the same for TNF games and all other games, with similar medians and spreads. Teams make roughly the same number of mistakes regardless of the day they play.</p>
+<p>The TNF boxplot looks almost identical to the rest of the league. Showing offenses aren’t slowing down just because it’s Thursday. Even if fans feel like Thursday games are low energy, the numbers tell a different story.</p>
+<p>Next are turnovers as they are one of the most visible signs of sloppy football.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -310,7 +313,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>
 </div>
 </div>
-<p>To get a fuller picture of game quality, this graph combines turnovers and offensive efficiency (yards per play). If Thursday games were truly worse, we would expect TNF games to cluster toward more turnovers and fewer yards per play. Instead, TNF games overlap heavily with the rest of the league, and the trend lines for both groups follow similar patterns. This suggests that even when considering efficiency and mistakes together, Thursday games perform on par with standard NFL matchups.</p>
+<p>Fans often point to one or two messy TNF games and generalize, but the data shows that across the season, Thursday games aren’t more turnover prone than others and they are about the same for any other game.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -366,12 +369,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </figure>
 </div>
 </div>
-<details class="code-fold">
-<summary>Code</summary>
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">write_csv</span>(game_stats, <span class="st">"tnf_game_stats.csv"</span>) </span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
-</details>
 </div>
-<p>Looking at scoring, turnovers, and overall efficiency, TNF games aren’t noticeably worse than other NFL games. Fans might&nbsp;feel&nbsp;like Thursday nights are sloppy because of the short week, but the numbers don’t back that up. TNF games deliver similar quality, pace, and performance as any other matchup.</p>
+<p>As my last point, I looked at turnovers and offensive efficiency together. If TNF games were worse, we’d expect them to cluster toward more turnovers and fewer yards per play.</p>
+<p>The surprising thing is that TNF games overlap heavily with the rest of the league. The trend lines are nearly identical.</p>
+<p>Even when considering mistakes and efficiency together, Thursday games perform right alongside Sunday games. This shows that short weeks don’t necessarily lead to worse football, they just feel different because we’re used to Sunday or Monday games.</p>
+<p>Looking at scoring, turnovers, and overall efficiency, the answer is not many of TNF games being “worse”. TNF might feel different because of routine or expectation, but the numbers prove that it can be just as entertaining and competitive as any Sunday match up.</p>
 
 
 
